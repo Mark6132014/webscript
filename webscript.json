@@ -9,13 +9,14 @@
         }
     },
     "dns": {
-        "funjunk.github.io": {
-            "ip": "47.38.98.96"
-        },
         "poop.com": {
-            "ip": "47.38.98.96"
+            "ip": "http://47.38.98.96"
+        },
+        "fart.com": {
+            "ip": "https://mark6132014.github.io/offlineserver"
         }
     },
     "name": "WebScript"
 
 }
+

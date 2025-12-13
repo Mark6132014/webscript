@@ -1,0 +1,20 @@
+{
+    "type": "webscript",
+    "rules": {
+        "mark6132014.github.io": {
+            "script": "http://192.168.50.111:8055/webscript-script.js"
+        },
+        "youtube.com": {
+            "script": "https://mark6132014.github.io/webscript/webscript-script.js"
+        }
+    },
+    "dns": {
+        "funjunk.github.io": {
+            "ip": "47.38.98.96"
+        },
+        "poop.com": {
+            "ip": "47.38.98.96"
+        }
+    },
+    "name": "WebScript"
+}

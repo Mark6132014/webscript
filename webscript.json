@@ -2,7 +2,7 @@
     "type": "webscript",
     "rules": {
         "mark6132014.github.io": {
-            "script": "http://192.168.50.111:8055/webscript-script.js"
+            "script": "https://mark6132014.github.io/webscript/webscript-script.js"
         },
         "youtube.com": {
             "script": "https://mark6132014.github.io/webscript/webscript-script.js"
@@ -17,4 +17,5 @@
         }
     },
     "name": "WebScript"
+
 }

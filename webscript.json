@@ -10,7 +10,7 @@
     },
     "dns": {
         "poop.com": {
-            "ip": "http://47.38.98.96",
+            "ip": "https://47.38.98.96",
             "title": "Itzgametime Vip",
             "icon": "http://47.38.98.96/3D_Pizza.png"
         },
@@ -23,5 +23,6 @@
     "name": "WebScript"
 
 }
+
 
 

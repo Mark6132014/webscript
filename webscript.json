@@ -10,13 +10,18 @@
     },
     "dns": {
         "poop.com": {
-            "ip": "http://47.38.98.96"
+            "ip": "http://47.38.98.96",
+            "title": "Itzgametime Vip",
+            "icon": "http://47.38.98.96/3D_Pizza.png"
         },
         "fart.com": {
-            "ip": "https://mark6132014.github.io/offlineserver"
+            "ip": "https://mark6132014.github.io/offlineserver",
+            "title": "OfflineServer Download",
+            "icon": "noicon"
         }
     },
     "name": "WebScript"
 
 }
+
 
